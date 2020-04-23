@@ -1,0 +1,12 @@
+==================================================
+ Details entered at : Thu Apr 23 13:07:20 2020 
+ Employee Number : 139265 
+ Employee behavior ratings out of 10 : 6.0 
+ Employee out of the box contribution out of 10 : 7.0 
+ Employee interaction out of 10 : 8.0 
+ Exployee total experience : 2.0 years 
+ Employee Business Unit : Bank 
+ Employee salary : 1000000.0 
+ Increment : 17.2 percent 
+ New salary : 1172000.0 
+==================================================
